@@ -9,7 +9,7 @@ The goal of this project is to analyze the dataset and provide insights that can
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [repository-link]
+   git clone [[repository-link]](https://github.com/techcsispit/Student-Performance)
    ```
 2. Navigate to the project folder:
    ```bash
